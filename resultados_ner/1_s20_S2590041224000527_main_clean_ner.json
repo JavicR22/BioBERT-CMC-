@@ -1,0 +1,1458 @@
+[
+  {
+    "entity_group": "Begin",
+    "score": 0.5641070604324341,
+    "word": "pulmonary",
+    "start": 28,
+    "end": 37,
+    "_chunk_index": 1
+  },
+  {
+    "entity_group": "Disease",
+    "score": 0.9287828803062439,
+    "word": "nodules",
+    "start": 38,
+    "end": 45,
+    "_chunk_index": 1
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.8737980723381042,
+    "word": "Acute",
+    "start": 433,
+    "end": 438,
+    "_chunk_index": 1
+  },
+  {
+    "entity_group": "Disease",
+    "score": 0.9904357194900513,
+    "word": "Respiratory Disease",
+    "start": 439,
+    "end": 458,
+    "_chunk_index": 1
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.9788128733634949,
+    "word": "Pulmonary",
+    "start": 1360,
+    "end": 1369,
+    "_chunk_index": 1
+  },
+  {
+    "entity_group": "Disease",
+    "score": 0.9283537864685059,
+    "word": "nodules",
+    "start": 1370,
+    "end": 1377,
+    "_chunk_index": 1
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.9457953572273254,
+    "word": "lung",
+    "start": 1478,
+    "end": 1482,
+    "_chunk_index": 1
+  },
+  {
+    "entity_group": "Disease",
+    "score": 0.9761356115341187,
+    "word": "cancer",
+    "start": 1483,
+    "end": 1489,
+    "_chunk_index": 1
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.5679529309272766,
+    "word": "pulmonary",
+    "start": 1553,
+    "end": 1562,
+    "_chunk_index": 1
+  },
+  {
+    "entity_group": "Disease",
+    "score": 0.9694427251815796,
+    "word": "nodules",
+    "start": 1563,
+    "end": 1570,
+    "_chunk_index": 1
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.7136492729187012,
+    "word": "IPN",
+    "start": 1572,
+    "end": 1575,
+    "_chunk_index": 1
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.9867688417434692,
+    "word": "lung",
+    "start": 326,
+    "end": 330,
+    "_chunk_index": 2
+  },
+  {
+    "entity_group": "Disease",
+    "score": 0.945676326751709,
+    "word": "cancers",
+    "start": 331,
+    "end": 338,
+    "_chunk_index": 2
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.9230912327766418,
+    "word": "##N",
+    "start": 461,
+    "end": 462,
+    "_chunk_index": 2
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.7070415616035461,
+    "word": "##N",
+    "start": 520,
+    "end": 521,
+    "_chunk_index": 2
+  },
+  {
+    "entity_group": "Disease",
+    "score": 0.8989319205284119,
+    "word": "pulmonary nodule",
+    "start": 803,
+    "end": 819,
+    "_chunk_index": 2
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.9953380823135376,
+    "word": "Lung",
+    "start": 915,
+    "end": 919,
+    "_chunk_index": 2
+  },
+  {
+    "entity_group": "Disease",
+    "score": 0.9785791039466858,
+    "word": "cancer",
+    "start": 920,
+    "end": 926,
+    "_chunk_index": 2
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.9811495542526245,
+    "word": "cancer",
+    "start": 953,
+    "end": 959,
+    "_chunk_index": 2
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.9910310506820679,
+    "word": "cancer",
+    "start": 985,
+    "end": 991,
+    "_chunk_index": 2
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.9885523319244385,
+    "word": "cancer",
+    "start": 1045,
+    "end": 1051,
+    "_chunk_index": 2
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.9983721375465393,
+    "word": "non",
+    "start": 1108,
+    "end": 1111,
+    "_chunk_index": 2
+  },
+  {
+    "entity_group": "Disease",
+    "score": 0.9973288774490356,
+    "word": "- small cell lung cancer",
+    "start": 1111,
+    "end": 1134,
+    "_chunk_index": 2
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.9823918342590332,
+    "word": "NSCLC",
+    "start": 1136,
+    "end": 1141,
+    "_chunk_index": 2
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.8980672359466553,
+    "word": "Lung",
+    "start": 1265,
+    "end": 1269,
+    "_chunk_index": 2
+  },
+  {
+    "entity_group": "Disease",
+    "score": 0.8719320297241211,
+    "word": "Cancer",
+    "start": 1270,
+    "end": 1276,
+    "_chunk_index": 2
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.9667723178863525,
+    "word": "lung",
+    "start": 1359,
+    "end": 1363,
+    "_chunk_index": 2
+  },
+  {
+    "entity_group": "Disease",
+    "score": 0.8255043029785156,
+    "word": "cancer",
+    "start": 1364,
+    "end": 1370,
+    "_chunk_index": 2
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.9734175801277161,
+    "word": "cancer",
+    "start": 1528,
+    "end": 1534,
+    "_chunk_index": 2
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.6281622648239136,
+    "word": "Incidental",
+    "start": 1546,
+    "end": 1556,
+    "_chunk_index": 2
+  },
+  {
+    "entity_group": "Disease",
+    "score": 0.8291500806808472,
+    "word": "Pulmonary Nodules",
+    "start": 1557,
+    "end": 1574,
+    "_chunk_index": 2
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.805610179901123,
+    "word": "##N",
+    "start": 1610,
+    "end": 1611,
+    "_chunk_index": 2
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.9490491151809692,
+    "word": "lung",
+    "start": 1766,
+    "end": 1770,
+    "_chunk_index": 2
+  },
+  {
+    "entity_group": "Disease",
+    "score": 0.8596245050430298,
+    "word": "cancer",
+    "start": 1771,
+    "end": 1777,
+    "_chunk_index": 2
+  },
+  {
+    "entity_group": "Disease",
+    "score": 0.7387760281562805,
+    "word": "Pulmonary Nodu",
+    "start": 2058,
+    "end": 2072,
+    "_chunk_index": 2
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.9985623359680176,
+    "word": "IPN",
+    "start": 362,
+    "end": 365,
+    "_chunk_index": 3
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.9884235262870789,
+    "word": "FUP",
+    "start": 378,
+    "end": 381,
+    "_chunk_index": 3
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.9986390471458435,
+    "word": "IPN",
+    "start": 1021,
+    "end": 1024,
+    "_chunk_index": 3
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.9804786443710327,
+    "word": "FUP",
+    "start": 1069,
+    "end": 1072,
+    "_chunk_index": 3
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.9976109266281128,
+    "word": "IPN",
+    "start": 1170,
+    "end": 1173,
+    "_chunk_index": 3
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.9860143661499023,
+    "word": "FUP",
+    "start": 1248,
+    "end": 1251,
+    "_chunk_index": 3
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.9748088121414185,
+    "word": "pulmonary",
+    "start": 75,
+    "end": 84,
+    "_chunk_index": 4
+  },
+  {
+    "entity_group": "Disease",
+    "score": 0.9319003820419312,
+    "word": "nodule",
+    "start": 85,
+    "end": 91,
+    "_chunk_index": 4
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.9964785575866699,
+    "word": "Pulmonary",
+    "start": 611,
+    "end": 620,
+    "_chunk_index": 4
+  },
+  {
+    "entity_group": "Disease",
+    "score": 0.9966762661933899,
+    "word": "embolism",
+    "start": 621,
+    "end": 629,
+    "_chunk_index": 4
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.9898844957351685,
+    "word": "Non",
+    "start": 633,
+    "end": 636,
+    "_chunk_index": 4
+  },
+  {
+    "entity_group": "Disease",
+    "score": 0.9850053191184998,
+    "word": "- embolic pulmonary artery pathology",
+    "start": 636,
+    "end": 671,
+    "_chunk_index": 4
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.9960103034973145,
+    "word": "Heart",
+    "start": 675,
+    "end": 680,
+    "_chunk_index": 4
+  },
+  {
+    "entity_group": "Disease",
+    "score": 0.9965308308601379,
+    "word": "abnormality",
+    "start": 681,
+    "end": 692,
+    "_chunk_index": 4
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.9984939694404602,
+    "word": "Mediastinal",
+    "start": 696,
+    "end": 707,
+    "_chunk_index": 4
+  },
+  {
+    "entity_group": "Disease",
+    "score": 0.9976128339767456,
+    "word": "lymphadenopathy",
+    "start": 708,
+    "end": 723,
+    "_chunk_index": 4
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.99806809425354,
+    "word": "Bronchial",
+    "start": 727,
+    "end": 736,
+    "_chunk_index": 4
+  },
+  {
+    "entity_group": "Disease",
+    "score": 0.9920064806938171,
+    "word": "disor - ders",
+    "start": 737,
+    "end": 748,
+    "_chunk_index": 4
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.9991214871406555,
+    "word": "Interstitial",
+    "start": 752,
+    "end": 764,
+    "_chunk_index": 4
+  },
+  {
+    "entity_group": "Disease",
+    "score": 0.998126208782196,
+    "word": "syndrome",
+    "start": 765,
+    "end": 773,
+    "_chunk_index": 4
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.9982936382293701,
+    "word": "Pleural",
+    "start": 777,
+    "end": 784,
+    "_chunk_index": 4
+  },
+  {
+    "entity_group": "Disease",
+    "score": 0.995205283164978,
+    "word": "abnormality",
+    "start": 785,
+    "end": 796,
+    "_chunk_index": 4
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.996788501739502,
+    "word": "Thoracic",
+    "start": 800,
+    "end": 808,
+    "_chunk_index": 4
+  },
+  {
+    "entity_group": "Disease",
+    "score": 0.9959819316864014,
+    "word": "wall abnormality",
+    "start": 809,
+    "end": 825,
+    "_chunk_index": 4
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.9993347525596619,
+    "word": "Aortic",
+    "start": 829,
+    "end": 835,
+    "_chunk_index": 4
+  },
+  {
+    "entity_group": "Disease",
+    "score": 0.9987600445747375,
+    "word": "dissection",
+    "start": 836,
+    "end": 846,
+    "_chunk_index": 4
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.9993460774421692,
+    "word": "Aortic",
+    "start": 850,
+    "end": 856,
+    "_chunk_index": 4
+  },
+  {
+    "entity_group": "Disease",
+    "score": 0.9983854293823242,
+    "word": "aneurysm",
+    "start": 857,
+    "end": 865,
+    "_chunk_index": 4
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.9993319511413574,
+    "word": "Aortic",
+    "start": 869,
+    "end": 875,
+    "_chunk_index": 4
+  },
+  {
+    "entity_group": "Disease",
+    "score": 0.9963051676750183,
+    "word": "Ather - oma",
+    "start": 876,
+    "end": 886,
+    "_chunk_index": 4
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.9990479350090027,
+    "word": "Aortic",
+    "start": 890,
+    "end": 896,
+    "_chunk_index": 4
+  },
+  {
+    "entity_group": "Disease",
+    "score": 0.997822105884552,
+    "word": "Ulceration",
+    "start": 897,
+    "end": 907,
+    "_chunk_index": 4
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.9988300204277039,
+    "word": "Congenital",
+    "start": 911,
+    "end": 921,
+    "_chunk_index": 4
+  },
+  {
+    "entity_group": "Disease",
+    "score": 0.998312771320343,
+    "word": "aortic pathology",
+    "start": 922,
+    "end": 938,
+    "_chunk_index": 4
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.9952914714813232,
+    "word": "Sub",
+    "start": 942,
+    "end": 945,
+    "_chunk_index": 4
+  },
+  {
+    "entity_group": "Disease",
+    "score": 0.9922485947608948,
+    "word": "- clavic - ular artery or bronchial arteries disorder",
+    "start": 945,
+    "end": 996,
+    "_chunk_index": 4
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.9794821739196777,
+    "word": "Lung",
+    "start": 1000,
+    "end": 1004,
+    "_chunk_index": 4
+  },
+  {
+    "entity_group": "Disease",
+    "score": 0.9914864897727966,
+    "word": "condensation",
+    "start": 1005,
+    "end": 1017,
+    "_chunk_index": 4
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.9821274876594543,
+    "word": "Pulmonary",
+    "start": 1045,
+    "end": 1054,
+    "_chunk_index": 4
+  },
+  {
+    "entity_group": "Disease",
+    "score": 0.9238895177841187,
+    "word": "mass",
+    "start": 1055,
+    "end": 1059,
+    "_chunk_index": 4
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.631683349609375,
+    "word": "P",
+    "start": 1079,
+    "end": 1080,
+    "_chunk_index": 4
+  },
+  {
+    "entity_group": "Disease",
+    "score": 0.9428342580795288,
+    "word": "micro - nodule",
+    "start": 1091,
+    "end": 1103,
+    "_chunk_index": 4
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.9616674184799194,
+    "word": "Pulmonary",
+    "start": 1124,
+    "end": 1133,
+    "_chunk_index": 4
+  },
+  {
+    "entity_group": "Disease",
+    "score": 0.97053062915802,
+    "word": "interstitial micro - nodule",
+    "start": 1134,
+    "end": 1159,
+    "_chunk_index": 4
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.5685650110244751,
+    "word": "micro",
+    "start": 1162,
+    "end": 1167,
+    "_chunk_index": 4
+  },
+  {
+    "entity_group": "Disease",
+    "score": 0.7184815406799316,
+    "word": "nodule",
+    "start": 1168,
+    "end": 1174,
+    "_chunk_index": 4
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.985556423664093,
+    "word": "Pulmonary",
+    "start": 1216,
+    "end": 1225,
+    "_chunk_index": 4
+  },
+  {
+    "entity_group": "Disease",
+    "score": 0.9743635654449463,
+    "word": "nodule",
+    "start": 1226,
+    "end": 1232,
+    "_chunk_index": 4
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.9533427357673645,
+    "word": "Spiculated",
+    "start": 1275,
+    "end": 1285,
+    "_chunk_index": 4
+  },
+  {
+    "entity_group": "Disease",
+    "score": 0.9462220668792725,
+    "word": "nodule",
+    "start": 1286,
+    "end": 1292,
+    "_chunk_index": 4
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.9409115314483643,
+    "word": "Pulmonary",
+    "start": 99,
+    "end": 108,
+    "_chunk_index": 5
+  },
+  {
+    "entity_group": "Disease",
+    "score": 0.9776800274848938,
+    "word": "micro - nodule",
+    "start": 109,
+    "end": 121,
+    "_chunk_index": 5
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.9911298751831055,
+    "word": "Pulmonary",
+    "start": 125,
+    "end": 134,
+    "_chunk_index": 5
+  },
+  {
+    "entity_group": "Disease",
+    "score": 0.9887186884880066,
+    "word": "nodule",
+    "start": 135,
+    "end": 141,
+    "_chunk_index": 5
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.9620883464813232,
+    "word": "Spiculated",
+    "start": 148,
+    "end": 158,
+    "_chunk_index": 5
+  },
+  {
+    "entity_group": "Disease",
+    "score": 0.9796810150146484,
+    "word": "nodule",
+    "start": 159,
+    "end": 165,
+    "_chunk_index": 5
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.7518191337585449,
+    "word": "Pulmonary",
+    "start": 212,
+    "end": 221,
+    "_chunk_index": 5
+  },
+  {
+    "entity_group": "Disease",
+    "score": 0.8485797643661499,
+    "word": "mass",
+    "start": 222,
+    "end": 226,
+    "_chunk_index": 5
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.8484863042831421,
+    "word": "Pulmonary",
+    "start": 230,
+    "end": 239,
+    "_chunk_index": 5
+  },
+  {
+    "entity_group": "Disease",
+    "score": 0.9898819327354431,
+    "word": "interstitial micro - nodule",
+    "start": 240,
+    "end": 265,
+    "_chunk_index": 5
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.6578364372253418,
+    "word": "pulmonary",
+    "start": 1028,
+    "end": 1037,
+    "_chunk_index": 5
+  },
+  {
+    "entity_group": "Disease",
+    "score": 0.582305908203125,
+    "word": "nodule",
+    "start": 1038,
+    "end": 1044,
+    "_chunk_index": 5
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.9773561954498291,
+    "word": "cancer",
+    "start": 1101,
+    "end": 1107,
+    "_chunk_index": 5
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.8273899555206299,
+    "word": "nodule",
+    "start": 1111,
+    "end": 1117,
+    "_chunk_index": 5
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.8205335736274719,
+    "word": "COVID",
+    "start": 1421,
+    "end": 1426,
+    "_chunk_index": 5
+  },
+  {
+    "entity_group": "Disease",
+    "score": 0.7710332870483398,
+    "word": "19",
+    "start": 1427,
+    "end": 1429,
+    "_chunk_index": 5
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.8706024289131165,
+    "word": "COVID",
+    "start": 1502,
+    "end": 1507,
+    "_chunk_index": 5
+  },
+  {
+    "entity_group": "Disease",
+    "score": 0.7431281805038452,
+    "word": "- 19",
+    "start": 1507,
+    "end": 1510,
+    "_chunk_index": 5
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.9624832272529602,
+    "word": "COVID",
+    "start": 1525,
+    "end": 1530,
+    "_chunk_index": 5
+  },
+  {
+    "entity_group": "Disease",
+    "score": 0.9605202674865723,
+    "word": "- 19",
+    "start": 1530,
+    "end": 1533,
+    "_chunk_index": 5
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.9816950559616089,
+    "word": "IPN",
+    "start": 1616,
+    "end": 1619,
+    "_chunk_index": 5
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.9288539886474609,
+    "word": "nodule",
+    "start": 368,
+    "end": 374,
+    "_chunk_index": 6
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.9911541938781738,
+    "word": "cancer",
+    "start": 547,
+    "end": 553,
+    "_chunk_index": 6
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.9170762896537781,
+    "word": "nodule",
+    "start": 2064,
+    "end": 2070,
+    "_chunk_index": 6
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.9524410963058472,
+    "word": "HCL",
+    "start": 2137,
+    "end": 2140,
+    "_chunk_index": 6
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.9930419921875,
+    "word": "IPN",
+    "start": 286,
+    "end": 289,
+    "_chunk_index": 7
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.9898643493652344,
+    "word": "IPN",
+    "start": 479,
+    "end": 482,
+    "_chunk_index": 7
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.7145524024963379,
+    "word": "IPN",
+    "start": 661,
+    "end": 664,
+    "_chunk_index": 7
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.6296389102935791,
+    "word": "Incident",
+    "start": 666,
+    "end": 674,
+    "_chunk_index": 7
+  },
+  {
+    "entity_group": "Disease",
+    "score": 0.6788263320922852,
+    "word": "Pulmonary Nodu",
+    "start": 677,
+    "end": 691,
+    "_chunk_index": 7
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.9955165982246399,
+    "word": "IPN",
+    "start": 737,
+    "end": 740,
+    "_chunk_index": 7
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.995466947555542,
+    "word": "coronavirus",
+    "start": 787,
+    "end": 798,
+    "_chunk_index": 7
+  },
+  {
+    "entity_group": "Disease",
+    "score": 0.9194992184638977,
+    "word": "disease",
+    "start": 799,
+    "end": 806,
+    "_chunk_index": 7
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.7942286729812622,
+    "word": "IPN",
+    "start": 813,
+    "end": 816,
+    "_chunk_index": 7
+  },
+  {
+    "entity_group": "Disease",
+    "score": 0.5619935393333435,
+    "word": "##mona",
+    "start": 832,
+    "end": 836,
+    "_chunk_index": 7
+  },
+  {
+    "entity_group": "Disease",
+    "score": 0.5296574831008911,
+    "word": "Nodu",
+    "start": 839,
+    "end": 843,
+    "_chunk_index": 7
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.9826350212097168,
+    "word": "FUP",
+    "start": 56,
+    "end": 59,
+    "_chunk_index": 8
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.9873973727226257,
+    "word": "FUP",
+    "start": 317,
+    "end": 320,
+    "_chunk_index": 8
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.9778450727462769,
+    "word": "FUP",
+    "start": 403,
+    "end": 406,
+    "_chunk_index": 8
+  },
+  {
+    "entity_group": "Disease",
+    "score": 0.724070131778717,
+    "word": "nod",
+    "start": 484,
+    "end": 487,
+    "_chunk_index": 8
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.9897730350494385,
+    "word": "FUP",
+    "start": 544,
+    "end": 547,
+    "_chunk_index": 8
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.8341898918151855,
+    "word": "FUP",
+    "start": 852,
+    "end": 855,
+    "_chunk_index": 8
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.9378769397735596,
+    "word": "FUP",
+    "start": 1132,
+    "end": 1135,
+    "_chunk_index": 8
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.9839093685150146,
+    "word": "FUP",
+    "start": 1247,
+    "end": 1250,
+    "_chunk_index": 8
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.9454485177993774,
+    "word": "FUP",
+    "start": 1404,
+    "end": 1407,
+    "_chunk_index": 8
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.8971160054206848,
+    "word": "lung",
+    "start": 7,
+    "end": 11,
+    "_chunk_index": 9
+  },
+  {
+    "entity_group": "Disease",
+    "score": 0.9784852862358093,
+    "word": "adenocarcinoma",
+    "start": 12,
+    "end": 26,
+    "_chunk_index": 9
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.9970512390136719,
+    "word": "squamous",
+    "start": 40,
+    "end": 48,
+    "_chunk_index": 9
+  },
+  {
+    "entity_group": "Disease",
+    "score": 0.9940587282180786,
+    "word": "cell carcinoma",
+    "start": 49,
+    "end": 63,
+    "_chunk_index": 9
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.9966011047363281,
+    "word": "SCC",
+    "start": 65,
+    "end": 68,
+    "_chunk_index": 9
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.8278522491455078,
+    "word": "a small",
+    "start": 81,
+    "end": 88,
+    "_chunk_index": 9
+  },
+  {
+    "entity_group": "Disease",
+    "score": 0.9963555932044983,
+    "word": "cell lung cancer",
+    "start": 89,
+    "end": 105,
+    "_chunk_index": 9
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.9967963695526123,
+    "word": "IPN",
+    "start": 512,
+    "end": 515,
+    "_chunk_index": 9
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.9976506233215332,
+    "word": "IPN",
+    "start": 806,
+    "end": 809,
+    "_chunk_index": 9
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.9948349595069885,
+    "word": "IPN",
+    "start": 1018,
+    "end": 1021,
+    "_chunk_index": 9
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.9926737546920776,
+    "word": "IPN",
+    "start": 1295,
+    "end": 1298,
+    "_chunk_index": 9
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.9944587349891663,
+    "word": "IPN",
+    "start": 1445,
+    "end": 1448,
+    "_chunk_index": 9
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.9641717672348022,
+    "word": "IPN",
+    "start": 26,
+    "end": 29,
+    "_chunk_index": 10
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.5082117915153503,
+    "word": "##UP",
+    "start": 487,
+    "end": 489,
+    "_chunk_index": 10
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.9953691363334656,
+    "word": "coronavirus",
+    "start": 798,
+    "end": 809,
+    "_chunk_index": 10
+  },
+  {
+    "entity_group": "Disease",
+    "score": 0.8120647072792053,
+    "word": "disease",
+    "start": 810,
+    "end": 817,
+    "_chunk_index": 10
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.9406125545501709,
+    "word": "IPN",
+    "start": 824,
+    "end": 827,
+    "_chunk_index": 10
+  },
+  {
+    "entity_group": "Disease",
+    "score": 0.62530517578125,
+    "word": "Pulmonary Nodule",
+    "start": 840,
+    "end": 856,
+    "_chunk_index": 10
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.9933600425720215,
+    "word": "coronavirus",
+    "start": 19,
+    "end": 30,
+    "_chunk_index": 11
+  },
+  {
+    "entity_group": "Disease",
+    "score": 0.8169927597045898,
+    "word": "disease",
+    "start": 31,
+    "end": 38,
+    "_chunk_index": 11
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.8936150074005127,
+    "word": "lung",
+    "start": 221,
+    "end": 225,
+    "_chunk_index": 11
+  },
+  {
+    "entity_group": "Disease",
+    "score": 0.8651095628738403,
+    "word": "cancers",
+    "start": 226,
+    "end": 233,
+    "_chunk_index": 11
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.943157434463501,
+    "word": "lung",
+    "start": 279,
+    "end": 283,
+    "_chunk_index": 11
+  },
+  {
+    "entity_group": "Disease",
+    "score": 0.9730085134506226,
+    "word": "cancer",
+    "start": 284,
+    "end": 290,
+    "_chunk_index": 11
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.9951248168945312,
+    "word": "SCC",
+    "start": 320,
+    "end": 323,
+    "_chunk_index": 11
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.9970753788948059,
+    "word": "Squamous",
+    "start": 325,
+    "end": 333,
+    "_chunk_index": 11
+  },
+  {
+    "entity_group": "Disease",
+    "score": 0.9967924356460571,
+    "word": "Cell Carcinoma",
+    "start": 334,
+    "end": 348,
+    "_chunk_index": 11
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.9944605231285095,
+    "word": "SCLC",
+    "start": 350,
+    "end": 354,
+    "_chunk_index": 11
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.9939644932746887,
+    "word": "Small",
+    "start": 356,
+    "end": 361,
+    "_chunk_index": 11
+  },
+  {
+    "entity_group": "Disease",
+    "score": 0.9957950711250305,
+    "word": "Cell Lung Cancer",
+    "start": 362,
+    "end": 378,
+    "_chunk_index": 11
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.9683751463890076,
+    "word": "lung",
+    "start": 1207,
+    "end": 1211,
+    "_chunk_index": 11
+  },
+  {
+    "entity_group": "Disease",
+    "score": 0.8139829635620117,
+    "word": "cancers",
+    "start": 1212,
+    "end": 1219,
+    "_chunk_index": 11
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.9609507322311401,
+    "word": "IPN",
+    "start": 1263,
+    "end": 1266,
+    "_chunk_index": 11
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.9662072062492371,
+    "word": "IPN",
+    "start": 1382,
+    "end": 1385,
+    "_chunk_index": 11
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.9909814596176147,
+    "word": "IPN",
+    "start": 1542,
+    "end": 1545,
+    "_chunk_index": 11
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.6686004996299744,
+    "word": "lung",
+    "start": 2159,
+    "end": 2163,
+    "_chunk_index": 11
+  },
+  {
+    "entity_group": "Disease",
+    "score": 0.643284261226654,
+    "word": "nodule",
+    "start": 2164,
+    "end": 2170,
+    "_chunk_index": 11
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.9239741563796997,
+    "word": "nodules",
+    "start": 174,
+    "end": 181,
+    "_chunk_index": 12
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.5820327997207642,
+    "word": "##ign",
+    "start": 407,
+    "end": 410,
+    "_chunk_index": 12
+  },
+  {
+    "entity_group": "Disease",
+    "score": 0.5506011247634888,
+    "word": "nod",
+    "start": 411,
+    "end": 414,
+    "_chunk_index": 12
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.9856666922569275,
+    "word": "pulmonary",
+    "start": 579,
+    "end": 588,
+    "_chunk_index": 12
+  },
+  {
+    "entity_group": "Disease",
+    "score": 0.9451650381088257,
+    "word": "nodule",
+    "start": 589,
+    "end": 595,
+    "_chunk_index": 12
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.8381227254867554,
+    "word": "IPN",
+    "start": 1026,
+    "end": 1029,
+    "_chunk_index": 12
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.8932759761810303,
+    "word": "Cancer",
+    "start": 1246,
+    "end": 1252,
+    "_chunk_index": 12
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.9922205805778503,
+    "word": "coronavirus",
+    "start": 1322,
+    "end": 1333,
+    "_chunk_index": 12
+  },
+  {
+    "entity_group": "Disease",
+    "score": 0.8968330025672913,
+    "word": "disease",
+    "start": 1334,
+    "end": 1341,
+    "_chunk_index": 12
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.9105260372161865,
+    "word": "Lung",
+    "start": 1383,
+    "end": 1387,
+    "_chunk_index": 12
+  },
+  {
+    "entity_group": "Disease",
+    "score": 0.9290969371795654,
+    "word": "Cancer",
+    "start": 1388,
+    "end": 1394,
+    "_chunk_index": 12
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.9035302400588989,
+    "word": "##astatic",
+    "start": 404,
+    "end": 411,
+    "_chunk_index": 13
+  },
+  {
+    "entity_group": "Disease",
+    "score": 0.5112082362174988,
+    "word": "disease",
+    "start": 412,
+    "end": 419,
+    "_chunk_index": 13
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.9466824531555176,
+    "word": "Acute",
+    "start": 773,
+    "end": 778,
+    "_chunk_index": 13
+  },
+  {
+    "entity_group": "Disease",
+    "score": 0.9753457307815552,
+    "word": "Respira - tory Disease",
+    "start": 779,
+    "end": 800,
+    "_chunk_index": 13
+  }
+]

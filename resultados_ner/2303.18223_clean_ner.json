@@ -1,0 +1,18 @@
+[
+  {
+    "entity_group": "Disease",
+    "score": 0.8037301898002625,
+    "word": "Wittgenstein L AN",
+    "start": 657,
+    "end": 674,
+    "_chunk_index": 2
+  },
+  {
+    "entity_group": "Disease",
+    "score": 0.6721049547195435,
+    "word": "##AGE",
+    "start": 676,
+    "end": 679,
+    "_chunk_index": 2
+  }
+]

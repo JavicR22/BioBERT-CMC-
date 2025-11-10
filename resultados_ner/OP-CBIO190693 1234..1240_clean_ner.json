@@ -1,0 +1,186 @@
+[
+  {
+    "entity_group": "Begin",
+    "score": 0.9455264806747437,
+    "word": "Gene",
+    "start": 0,
+    "end": 4,
+    "_chunk_index": 13
+  },
+  {
+    "entity_group": "Disease",
+    "score": 0.7528846859931946,
+    "word": "– disease",
+    "start": 4,
+    "end": 12,
+    "_chunk_index": 13
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.8590843677520752,
+    "word": "GAD",
+    "start": 559,
+    "end": 562,
+    "_chunk_index": 13
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.9803707599639893,
+    "word": "oral",
+    "start": 55,
+    "end": 59,
+    "_chunk_index": 14
+  },
+  {
+    "entity_group": "Disease",
+    "score": 0.9895002841949463,
+    "word": "penicillin anaphylaxis",
+    "start": 60,
+    "end": 82,
+    "_chunk_index": 14
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.979431688785553,
+    "word": "oral",
+    "start": 147,
+    "end": 151,
+    "_chunk_index": 14
+  },
+  {
+    "entity_group": "Disease",
+    "score": 0.9933781623840332,
+    "word": "penicillin anaphylaxis",
+    "start": 152,
+    "end": 174,
+    "_chunk_index": 14
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.997811496257782,
+    "word": "urinary",
+    "start": 510,
+    "end": 517,
+    "_chunk_index": 14
+  },
+  {
+    "entity_group": "Disease",
+    "score": 0.975623369216919,
+    "word": "incontinence",
+    "start": 518,
+    "end": 530,
+    "_chunk_index": 14
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.9684947729110718,
+    "word": "stress",
+    "start": 611,
+    "end": 617,
+    "_chunk_index": 14
+  },
+  {
+    "entity_group": "Disease",
+    "score": 0.998886227607727,
+    "word": "urinary incontinence",
+    "start": 618,
+    "end": 638,
+    "_chunk_index": 14
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.9907612800598145,
+    "word": "SUI",
+    "start": 640,
+    "end": 643,
+    "_chunk_index": 14
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.8025458455085754,
+    "word": "stress",
+    "start": 752,
+    "end": 758,
+    "_chunk_index": 14
+  },
+  {
+    "entity_group": "Disease",
+    "score": 0.9990618824958801,
+    "word": "urinary incontinence",
+    "start": 759,
+    "end": 779,
+    "_chunk_index": 14
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.9949111938476562,
+    "word": "SUI",
+    "start": 781,
+    "end": 784,
+    "_chunk_index": 14
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.9955097436904907,
+    "word": "erythrasma",
+    "start": 869,
+    "end": 879,
+    "_chunk_index": 14
+  },
+  {
+    "entity_group": "Disease",
+    "score": 0.9236756563186646,
+    "word": "eryt",
+    "start": 968,
+    "end": 972,
+    "_chunk_index": 14
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.5533849000930786,
+    "word": "##h",
+    "start": 972,
+    "end": 973,
+    "_chunk_index": 14
+  },
+  {
+    "entity_group": "Disease",
+    "score": 0.9981857538223267,
+    "word": "- rasma",
+    "start": 973,
+    "end": 980,
+    "_chunk_index": 14
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.5482543706893921,
+    "word": "cut",
+    "start": 1054,
+    "end": 1057,
+    "_chunk_index": 14
+  },
+  {
+    "entity_group": "Disease",
+    "score": 0.7344318628311157,
+    "word": "eryt",
+    "start": 1077,
+    "end": 1081,
+    "_chunk_index": 14
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.9430232644081116,
+    "word": "##h",
+    "start": 1081,
+    "end": 1082,
+    "_chunk_index": 14
+  },
+  {
+    "entity_group": "Disease",
+    "score": 0.9979735612869263,
+    "word": "- rasma",
+    "start": 1082,
+    "end": 1089,
+    "_chunk_index": 14
+  }
+]

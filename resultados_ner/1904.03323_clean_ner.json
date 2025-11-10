@@ -1,0 +1,42 @@
+[
+  {
+    "entity_group": "Begin",
+    "score": 0.9623561501502991,
+    "word": "##lucose",
+    "start": 1339,
+    "end": 1345,
+    "_chunk_index": 6
+  },
+  {
+    "entity_group": "Disease",
+    "score": 0.8855444192886353,
+    "word": "Seizure Pne",
+    "start": 1346,
+    "end": 1357,
+    "_chunk_index": 6
+  },
+  {
+    "entity_group": "Disease",
+    "score": 0.9728567600250244,
+    "word": "##onia",
+    "start": 1359,
+    "end": 1363,
+    "_chunk_index": 6
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.5906819701194763,
+    "word": "row",
+    "start": 1558,
+    "end": 1561,
+    "_chunk_index": 6
+  },
+  {
+    "entity_group": "Disease",
+    "score": 0.9591596126556396,
+    "word": "dioxide attack",
+    "start": 1562,
+    "end": 1576,
+    "_chunk_index": 6
+  }
+]

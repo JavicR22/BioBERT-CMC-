@@ -1,0 +1,114 @@
+[
+  {
+    "entity_group": "Begin",
+    "score": 0.9969198107719421,
+    "word": "neurological",
+    "start": 1142,
+    "end": 1154,
+    "_chunk_index": 4
+  },
+  {
+    "entity_group": "Disease",
+    "score": 0.9833260774612427,
+    "word": "disorders",
+    "start": 1155,
+    "end": 1164,
+    "_chunk_index": 4
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.9976537823677063,
+    "word": "Alzheimer",
+    "start": 465,
+    "end": 474,
+    "_chunk_index": 5
+  },
+  {
+    "entity_group": "Disease",
+    "score": 0.9833774566650391,
+    "word": "’ s disease",
+    "start": 474,
+    "end": 484,
+    "_chunk_index": 5
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.9983672499656677,
+    "word": "Parkinson",
+    "start": 486,
+    "end": 495,
+    "_chunk_index": 5
+  },
+  {
+    "entity_group": "Disease",
+    "score": 0.8703365325927734,
+    "word": "’ s disease",
+    "start": 495,
+    "end": 505,
+    "_chunk_index": 5
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.9979198575019836,
+    "word": "epilepsy",
+    "start": 510,
+    "end": 518,
+    "_chunk_index": 5
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.9969885945320129,
+    "word": "Alzheimer",
+    "start": 2011,
+    "end": 2020,
+    "_chunk_index": 6
+  },
+  {
+    "entity_group": "Disease",
+    "score": 0.974571943283081,
+    "word": "’ s disease",
+    "start": 2020,
+    "end": 2030,
+    "_chunk_index": 6
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.6482229828834534,
+    "word": "AP",
+    "start": 134,
+    "end": 136,
+    "_chunk_index": 7
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.8135940432548523,
+    "word": "APP",
+    "start": 162,
+    "end": 165,
+    "_chunk_index": 7
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.992361307144165,
+    "word": "AD",
+    "start": 246,
+    "end": 248,
+    "_chunk_index": 7
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.7638256549835205,
+    "word": "##EL",
+    "start": 400,
+    "end": 402,
+    "_chunk_index": 13
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.7388357520103455,
+    "word": "##EL",
+    "start": 907,
+    "end": 909,
+    "_chunk_index": 13
+  }
+]

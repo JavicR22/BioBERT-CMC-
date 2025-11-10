@@ -1,0 +1,98 @@
+[
+  {
+    "entity_group": "Begin",
+    "score": 0.9496166706085205,
+    "word": "genetic",
+    "start": 1109,
+    "end": 1116,
+    "_chunk_index": 1
+  },
+  {
+    "entity_group": "Disease",
+    "score": 0.9744636416435242,
+    "word": "diseases",
+    "start": 1117,
+    "end": 1125,
+    "_chunk_index": 1
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.7801902294158936,
+    "word": "rare",
+    "start": 327,
+    "end": 331,
+    "_chunk_index": 2
+  },
+  {
+    "entity_group": "Disease",
+    "score": 0.5018248558044434,
+    "word": "diseases",
+    "start": 332,
+    "end": 340,
+    "_chunk_index": 2
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.9786477088928223,
+    "word": "genetic",
+    "start": 1412,
+    "end": 1419,
+    "_chunk_index": 2
+  },
+  {
+    "entity_group": "Disease",
+    "score": 0.9669981002807617,
+    "word": "disorders",
+    "start": 1420,
+    "end": 1429,
+    "_chunk_index": 2
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.9910883903503418,
+    "word": "cancers",
+    "start": 1431,
+    "end": 1438,
+    "_chunk_index": 2
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.9982330203056335,
+    "word": "neurodegenerative",
+    "start": 1443,
+    "end": 1460,
+    "_chunk_index": 2
+  },
+  {
+    "entity_group": "Disease",
+    "score": 0.9876667261123657,
+    "word": "diseases",
+    "start": 1461,
+    "end": 1469,
+    "_chunk_index": 2
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.9964030385017395,
+    "word": "SCOP",
+    "start": 24,
+    "end": 28,
+    "_chunk_index": 15
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.8342922329902649,
+    "word": "rare",
+    "start": 1886,
+    "end": 1890,
+    "_chunk_index": 24
+  },
+  {
+    "entity_group": "Disease",
+    "score": 0.7113983631134033,
+    "word": "diseases",
+    "start": 1891,
+    "end": 1899,
+    "_chunk_index": 24
+  }
+]

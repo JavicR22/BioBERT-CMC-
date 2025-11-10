@@ -1,0 +1,1194 @@
+[
+  {
+    "entity_group": "Begin",
+    "score": 0.9642935991287231,
+    "word": "lung",
+    "start": 1813,
+    "end": 1817,
+    "_chunk_index": 1
+  },
+  {
+    "entity_group": "Disease",
+    "score": 0.9946163296699524,
+    "word": "cancer",
+    "start": 1818,
+    "end": 1824,
+    "_chunk_index": 1
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.9829363822937012,
+    "word": "lung",
+    "start": 159,
+    "end": 163,
+    "_chunk_index": 2
+  },
+  {
+    "entity_group": "Disease",
+    "score": 0.953037440776825,
+    "word": "cancer",
+    "start": 164,
+    "end": 170,
+    "_chunk_index": 2
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.9932123422622681,
+    "word": "disorder",
+    "start": 301,
+    "end": 309,
+    "_chunk_index": 2
+  },
+  {
+    "entity_group": "Disease",
+    "score": 0.9885123372077942,
+    "word": "of the lung",
+    "start": 310,
+    "end": 321,
+    "_chunk_index": 2
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.9652277231216431,
+    "word": "pneumonia",
+    "start": 332,
+    "end": 341,
+    "_chunk_index": 2
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.7065261006355286,
+    "word": "cough",
+    "start": 350,
+    "end": 355,
+    "_chunk_index": 2
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.9705358147621155,
+    "word": "lung",
+    "start": 388,
+    "end": 392,
+    "_chunk_index": 2
+  },
+  {
+    "entity_group": "Disease",
+    "score": 0.9616900682449341,
+    "word": "cancer",
+    "start": 393,
+    "end": 399,
+    "_chunk_index": 2
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.995278537273407,
+    "word": "Anomalies",
+    "start": 412,
+    "end": 421,
+    "_chunk_index": 2
+  },
+  {
+    "entity_group": "Disease",
+    "score": 0.9680560231208801,
+    "word": "of great vessel",
+    "start": 422,
+    "end": 437,
+    "_chunk_index": 2
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.941323459148407,
+    "word": "disorder",
+    "start": 441,
+    "end": 449,
+    "_chunk_index": 2
+  },
+  {
+    "entity_group": "Disease",
+    "score": 0.8195737600326538,
+    "word": "of the retroperitoneal compartment",
+    "start": 450,
+    "end": 484,
+    "_chunk_index": 2
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.9748131036758423,
+    "word": "lung",
+    "start": 568,
+    "end": 572,
+    "_chunk_index": 2
+  },
+  {
+    "entity_group": "Disease",
+    "score": 0.9595399498939514,
+    "word": "cancer",
+    "start": 573,
+    "end": 579,
+    "_chunk_index": 2
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.977531909942627,
+    "word": "cancer",
+    "start": 685,
+    "end": 691,
+    "_chunk_index": 2
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.9623936414718628,
+    "word": "lung",
+    "start": 876,
+    "end": 880,
+    "_chunk_index": 2
+  },
+  {
+    "entity_group": "Disease",
+    "score": 0.9461970925331116,
+    "word": "cancer",
+    "start": 881,
+    "end": 887,
+    "_chunk_index": 2
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.9667527079582214,
+    "word": "lung",
+    "start": 1241,
+    "end": 1245,
+    "_chunk_index": 2
+  },
+  {
+    "entity_group": "Disease",
+    "score": 0.957493782043457,
+    "word": "cancer",
+    "start": 1246,
+    "end": 1252,
+    "_chunk_index": 2
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.9859104156494141,
+    "word": "Lung",
+    "start": 1531,
+    "end": 1535,
+    "_chunk_index": 2
+  },
+  {
+    "entity_group": "Disease",
+    "score": 0.9756803512573242,
+    "word": "cancer",
+    "start": 1536,
+    "end": 1542,
+    "_chunk_index": 2
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.5863147377967834,
+    "word": "cancer",
+    "start": 1599,
+    "end": 1605,
+    "_chunk_index": 2
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.9753191471099854,
+    "word": "lung",
+    "start": 1783,
+    "end": 1787,
+    "_chunk_index": 2
+  },
+  {
+    "entity_group": "Disease",
+    "score": 0.8513203263282776,
+    "word": "cancer",
+    "start": 1788,
+    "end": 1794,
+    "_chunk_index": 2
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.9606533050537109,
+    "word": "lung",
+    "start": 2123,
+    "end": 2127,
+    "_chunk_index": 2
+  },
+  {
+    "entity_group": "Disease",
+    "score": 0.8814237117767334,
+    "word": "cancers",
+    "start": 2128,
+    "end": 2135,
+    "_chunk_index": 2
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.974847674369812,
+    "word": "lung",
+    "start": 2300,
+    "end": 2304,
+    "_chunk_index": 2
+  },
+  {
+    "entity_group": "Disease",
+    "score": 0.9670558571815491,
+    "word": "cancer",
+    "start": 2305,
+    "end": 2311,
+    "_chunk_index": 2
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.9419943690299988,
+    "word": "stage",
+    "start": 223,
+    "end": 228,
+    "_chunk_index": 3
+  },
+  {
+    "entity_group": "Disease",
+    "score": 0.9766280055046082,
+    "word": "1 lung cancer",
+    "start": 229,
+    "end": 242,
+    "_chunk_index": 3
+  },
+  {
+    "entity_group": "Disease",
+    "score": 0.5197985768318176,
+    "word": "disease",
+    "start": 328,
+    "end": 335,
+    "_chunk_index": 3
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.98390793800354,
+    "word": "lung",
+    "start": 420,
+    "end": 424,
+    "_chunk_index": 3
+  },
+  {
+    "entity_group": "Disease",
+    "score": 0.9945569038391113,
+    "word": "cancer",
+    "start": 425,
+    "end": 431,
+    "_chunk_index": 3
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.9467671513557434,
+    "word": "cardiotho racic",
+    "start": 451,
+    "end": 467,
+    "_chunk_index": 3
+  },
+  {
+    "entity_group": "Disease",
+    "score": 0.924780547618866,
+    "word": "and respiratory conditions",
+    "start": 468,
+    "end": 494,
+    "_chunk_index": 3
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.9889028668403625,
+    "word": "lung",
+    "start": 660,
+    "end": 664,
+    "_chunk_index": 3
+  },
+  {
+    "entity_group": "Disease",
+    "score": 0.9957346320152283,
+    "word": "cancer",
+    "start": 665,
+    "end": 671,
+    "_chunk_index": 3
+  },
+  {
+    "entity_group": "Disease",
+    "score": 0.7772621512413025,
+    "word": "illness",
+    "start": 2362,
+    "end": 2369,
+    "_chunk_index": 3
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.8201552629470825,
+    "word": "oncology",
+    "start": 110,
+    "end": 118,
+    "_chunk_index": 4
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.9988491535186768,
+    "word": "non",
+    "start": 199,
+    "end": 202,
+    "_chunk_index": 4
+  },
+  {
+    "entity_group": "Disease",
+    "score": 0.9972785711288452,
+    "word": "- small cell lung cancer",
+    "start": 202,
+    "end": 226,
+    "_chunk_index": 4
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.9646597504615784,
+    "word": "NSCLC",
+    "start": 228,
+    "end": 233,
+    "_chunk_index": 4
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.8784932494163513,
+    "word": "oncology",
+    "start": 324,
+    "end": 332,
+    "_chunk_index": 4
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.5652717351913452,
+    "word": "chest",
+    "start": 1392,
+    "end": 1397,
+    "_chunk_index": 4
+  },
+  {
+    "entity_group": "Disease",
+    "score": 0.922088086605072,
+    "word": "cough",
+    "start": 1399,
+    "end": 1404,
+    "_chunk_index": 4
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.530169665813446,
+    "word": "Cancer",
+    "start": 2025,
+    "end": 2031,
+    "_chunk_index": 4
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.9675984978675842,
+    "word": "lung",
+    "start": 139,
+    "end": 143,
+    "_chunk_index": 5
+  },
+  {
+    "entity_group": "Disease",
+    "score": 0.9810311198234558,
+    "word": "cancer",
+    "start": 144,
+    "end": 150,
+    "_chunk_index": 5
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.9621579647064209,
+    "word": "cancer",
+    "start": 786,
+    "end": 792,
+    "_chunk_index": 5
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.9820153713226318,
+    "word": "lung",
+    "start": 1049,
+    "end": 1053,
+    "_chunk_index": 5
+  },
+  {
+    "entity_group": "Disease",
+    "score": 0.9826211333274841,
+    "word": "cancer",
+    "start": 1054,
+    "end": 1060,
+    "_chunk_index": 5
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.7370196580886841,
+    "word": "any cancer",
+    "start": 1119,
+    "end": 1129,
+    "_chunk_index": 5
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.44797879457473755,
+    "word": "Cancer",
+    "start": 1525,
+    "end": 1531,
+    "_chunk_index": 5
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.9586623311042786,
+    "word": "lung",
+    "start": 1706,
+    "end": 1710,
+    "_chunk_index": 5
+  },
+  {
+    "entity_group": "Disease",
+    "score": 0.9786722660064697,
+    "word": "cancer",
+    "start": 1711,
+    "end": 1717,
+    "_chunk_index": 5
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.5541200041770935,
+    "word": "Cancer",
+    "start": 1762,
+    "end": 1768,
+    "_chunk_index": 5
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.9953575134277344,
+    "word": "Malignant",
+    "start": 1805,
+    "end": 1814,
+    "_chunk_index": 5
+  },
+  {
+    "entity_group": "Disease",
+    "score": 0.9911394119262695,
+    "word": "neoplasm of bronchus and lung",
+    "start": 1815,
+    "end": 1844,
+    "_chunk_index": 5
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.9673430919647217,
+    "word": "lung",
+    "start": 2251,
+    "end": 2255,
+    "_chunk_index": 5
+  },
+  {
+    "entity_group": "Disease",
+    "score": 0.9366405606269836,
+    "word": "cancer",
+    "start": 2256,
+    "end": 2262,
+    "_chunk_index": 5
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.979367196559906,
+    "word": "lung",
+    "start": 112,
+    "end": 116,
+    "_chunk_index": 6
+  },
+  {
+    "entity_group": "Disease",
+    "score": 0.9956768155097961,
+    "word": "cancer",
+    "start": 117,
+    "end": 123,
+    "_chunk_index": 6
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.9755454659461975,
+    "word": "lung",
+    "start": 244,
+    "end": 248,
+    "_chunk_index": 6
+  },
+  {
+    "entity_group": "Disease",
+    "score": 0.9958629608154297,
+    "word": "cancer",
+    "start": 249,
+    "end": 255,
+    "_chunk_index": 6
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.9988797307014465,
+    "word": "diabetic",
+    "start": 751,
+    "end": 759,
+    "_chunk_index": 6
+  },
+  {
+    "entity_group": "Disease",
+    "score": 0.9985532760620117,
+    "word": "kidney disease",
+    "start": 760,
+    "end": 774,
+    "_chunk_index": 6
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.9926770925521851,
+    "word": "lung",
+    "start": 208,
+    "end": 212,
+    "_chunk_index": 7
+  },
+  {
+    "entity_group": "Disease",
+    "score": 0.966533362865448,
+    "word": "cancer",
+    "start": 213,
+    "end": 219,
+    "_chunk_index": 7
+  },
+  {
+    "entity_group": "Disease",
+    "score": 0.9505580067634583,
+    "word": "cancer",
+    "start": 1639,
+    "end": 1645,
+    "_chunk_index": 7
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.9861603379249573,
+    "word": "lung",
+    "start": 1675,
+    "end": 1679,
+    "_chunk_index": 7
+  },
+  {
+    "entity_group": "Disease",
+    "score": 0.7957433462142944,
+    "word": "cancer",
+    "start": 1680,
+    "end": 1686,
+    "_chunk_index": 7
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.9536824226379395,
+    "word": "lung",
+    "start": 1779,
+    "end": 1783,
+    "_chunk_index": 7
+  },
+  {
+    "entity_group": "Disease",
+    "score": 0.9875746369361877,
+    "word": "cancer",
+    "start": 1784,
+    "end": 1790,
+    "_chunk_index": 7
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.923103928565979,
+    "word": "lung",
+    "start": 1951,
+    "end": 1955,
+    "_chunk_index": 7
+  },
+  {
+    "entity_group": "Disease",
+    "score": 0.9237459301948547,
+    "word": "cancer",
+    "start": 1956,
+    "end": 1962,
+    "_chunk_index": 7
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.5700231790542603,
+    "word": "non",
+    "start": 1999,
+    "end": 2002,
+    "_chunk_index": 7
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.496277779340744,
+    "word": "lung",
+    "start": 2004,
+    "end": 2008,
+    "_chunk_index": 7
+  },
+  {
+    "entity_group": "Disease",
+    "score": 0.9669991135597229,
+    "word": "cancer",
+    "start": 2009,
+    "end": 2015,
+    "_chunk_index": 7
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.973561704158783,
+    "word": "lung",
+    "start": 566,
+    "end": 570,
+    "_chunk_index": 8
+  },
+  {
+    "entity_group": "Disease",
+    "score": 0.9864285588264465,
+    "word": "cancer",
+    "start": 571,
+    "end": 577,
+    "_chunk_index": 8
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.8957022428512573,
+    "word": "lung",
+    "start": 747,
+    "end": 751,
+    "_chunk_index": 8
+  },
+  {
+    "entity_group": "Disease",
+    "score": 0.591792106628418,
+    "word": "cancer",
+    "start": 752,
+    "end": 758,
+    "_chunk_index": 8
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.9556241035461426,
+    "word": "lung",
+    "start": 798,
+    "end": 802,
+    "_chunk_index": 8
+  },
+  {
+    "entity_group": "Disease",
+    "score": 0.8771175146102905,
+    "word": "cancer",
+    "start": 803,
+    "end": 809,
+    "_chunk_index": 8
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.9815444946289062,
+    "word": "lung",
+    "start": 1401,
+    "end": 1405,
+    "_chunk_index": 8
+  },
+  {
+    "entity_group": "Disease",
+    "score": 0.8866961002349854,
+    "word": "cancer",
+    "start": 1406,
+    "end": 1412,
+    "_chunk_index": 8
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.9817870855331421,
+    "word": "lung",
+    "start": 149,
+    "end": 153,
+    "_chunk_index": 9
+  },
+  {
+    "entity_group": "Disease",
+    "score": 0.9859906435012817,
+    "word": "cancer",
+    "start": 154,
+    "end": 160,
+    "_chunk_index": 9
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.9776255488395691,
+    "word": "lung",
+    "start": 200,
+    "end": 204,
+    "_chunk_index": 9
+  },
+  {
+    "entity_group": "Disease",
+    "score": 0.9709206819534302,
+    "word": "cancer",
+    "start": 205,
+    "end": 211,
+    "_chunk_index": 9
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.9457908868789673,
+    "word": "lung",
+    "start": 503,
+    "end": 507,
+    "_chunk_index": 9
+  },
+  {
+    "entity_group": "Disease",
+    "score": 0.9483366012573242,
+    "word": "cancer",
+    "start": 508,
+    "end": 514,
+    "_chunk_index": 9
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.9961725473403931,
+    "word": "COPD",
+    "start": 578,
+    "end": 582,
+    "_chunk_index": 9
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.9976376891136169,
+    "word": "atelecta",
+    "start": 595,
+    "end": 603,
+    "_chunk_index": 9
+  },
+  {
+    "entity_group": "Disease",
+    "score": 0.8843554258346558,
+    "word": "sis",
+    "start": 605,
+    "end": 608,
+    "_chunk_index": 9
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.9913352131843567,
+    "word": "pneumonia",
+    "start": 624,
+    "end": 633,
+    "_chunk_index": 9
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.9779757857322693,
+    "word": "lung",
+    "start": 2183,
+    "end": 2187,
+    "_chunk_index": 9
+  },
+  {
+    "entity_group": "Disease",
+    "score": 0.9827138781547546,
+    "word": "cancer",
+    "start": 2188,
+    "end": 2194,
+    "_chunk_index": 9
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.9848729372024536,
+    "word": "lung",
+    "start": 172,
+    "end": 176,
+    "_chunk_index": 10
+  },
+  {
+    "entity_group": "Disease",
+    "score": 0.9936949610710144,
+    "word": "cancer",
+    "start": 177,
+    "end": 183,
+    "_chunk_index": 10
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.8918126225471497,
+    "word": "existing",
+    "start": 219,
+    "end": 227,
+    "_chunk_index": 10
+  },
+  {
+    "entity_group": "Disease",
+    "score": 0.9321863651275635,
+    "word": "disorder of the lung",
+    "start": 228,
+    "end": 248,
+    "_chunk_index": 10
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.981730580329895,
+    "word": "lung",
+    "start": 440,
+    "end": 444,
+    "_chunk_index": 10
+  },
+  {
+    "entity_group": "Disease",
+    "score": 0.6818994879722595,
+    "word": "can cer",
+    "start": 445,
+    "end": 453,
+    "_chunk_index": 10
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.997336208820343,
+    "word": "congenital",
+    "start": 643,
+    "end": 653,
+    "_chunk_index": 10
+  },
+  {
+    "entity_group": "Disease",
+    "score": 0.9979968070983887,
+    "word": "anomaly of a great vessel",
+    "start": 654,
+    "end": 679,
+    "_chunk_index": 10
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.9968019723892212,
+    "word": "disorders",
+    "start": 686,
+    "end": 695,
+    "_chunk_index": 10
+  },
+  {
+    "entity_group": "Disease",
+    "score": 0.9954802989959717,
+    "word": "of the retroperitoneal com partment",
+    "start": 696,
+    "end": 732,
+    "_chunk_index": 10
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.9867446422576904,
+    "word": "arthropathy",
+    "start": 813,
+    "end": 824,
+    "_chunk_index": 10
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.9881276488304138,
+    "word": "lung",
+    "start": 878,
+    "end": 882,
+    "_chunk_index": 10
+  },
+  {
+    "entity_group": "Disease",
+    "score": 0.9668859839439392,
+    "word": "cancer",
+    "start": 883,
+    "end": 889,
+    "_chunk_index": 10
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.6997572779655457,
+    "word": "cough",
+    "start": 930,
+    "end": 935,
+    "_chunk_index": 10
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.9863942265510559,
+    "word": "lung",
+    "start": 1029,
+    "end": 1033,
+    "_chunk_index": 10
+  },
+  {
+    "entity_group": "Disease",
+    "score": 0.9599065780639648,
+    "word": "cancer",
+    "start": 1034,
+    "end": 1040,
+    "_chunk_index": 10
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.9759774208068848,
+    "word": "cancer",
+    "start": 783,
+    "end": 789,
+    "_chunk_index": 11
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.8684855103492737,
+    "word": "lung",
+    "start": 946,
+    "end": 950,
+    "_chunk_index": 11
+  },
+  {
+    "entity_group": "Disease",
+    "score": 0.9409712553024292,
+    "word": "cancer",
+    "start": 951,
+    "end": 957,
+    "_chunk_index": 11
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.9836471676826477,
+    "word": "lung",
+    "start": 513,
+    "end": 517,
+    "_chunk_index": 12
+  },
+  {
+    "entity_group": "Disease",
+    "score": 0.9418931603431702,
+    "word": "cancer",
+    "start": 518,
+    "end": 524,
+    "_chunk_index": 12
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.9817626476287842,
+    "word": "lung",
+    "start": 1120,
+    "end": 1124,
+    "_chunk_index": 12
+  },
+  {
+    "entity_group": "Disease",
+    "score": 0.9318940043449402,
+    "word": "cancer",
+    "start": 1125,
+    "end": 1131,
+    "_chunk_index": 12
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.9841327667236328,
+    "word": "lung",
+    "start": 2409,
+    "end": 2413,
+    "_chunk_index": 12
+  },
+  {
+    "entity_group": "Disease",
+    "score": 0.9708143472671509,
+    "word": "cancer",
+    "start": 2414,
+    "end": 2420,
+    "_chunk_index": 12
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.9905241131782532,
+    "word": "lung",
+    "start": 41,
+    "end": 45,
+    "_chunk_index": 13
+  },
+  {
+    "entity_group": "Disease",
+    "score": 0.9673265218734741,
+    "word": "cancer",
+    "start": 46,
+    "end": 52,
+    "_chunk_index": 13
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.9943125247955322,
+    "word": "lung",
+    "start": 728,
+    "end": 732,
+    "_chunk_index": 13
+  },
+  {
+    "entity_group": "Disease",
+    "score": 0.8293614387512207,
+    "word": "cancer",
+    "start": 733,
+    "end": 739,
+    "_chunk_index": 13
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.9891184568405151,
+    "word": "lung",
+    "start": 1256,
+    "end": 1260,
+    "_chunk_index": 13
+  },
+  {
+    "entity_group": "Disease",
+    "score": 0.6767867207527161,
+    "word": "cancer",
+    "start": 1261,
+    "end": 1267,
+    "_chunk_index": 13
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.9893747568130493,
+    "word": "lung",
+    "start": 1753,
+    "end": 1757,
+    "_chunk_index": 13
+  },
+  {
+    "entity_group": "Disease",
+    "score": 0.9255739450454712,
+    "word": "cancer",
+    "start": 1758,
+    "end": 1764,
+    "_chunk_index": 13
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.990157425403595,
+    "word": "lung",
+    "start": 1905,
+    "end": 1909,
+    "_chunk_index": 13
+  },
+  {
+    "entity_group": "Disease",
+    "score": 0.7041040062904358,
+    "word": "cancer",
+    "start": 1910,
+    "end": 1916,
+    "_chunk_index": 13
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.9750899076461792,
+    "word": "lung",
+    "start": 2147,
+    "end": 2151,
+    "_chunk_index": 13
+  },
+  {
+    "entity_group": "Disease",
+    "score": 0.9705150127410889,
+    "word": "- cancer",
+    "start": 2151,
+    "end": 2158,
+    "_chunk_index": 13
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.9777736067771912,
+    "word": "lung",
+    "start": 2392,
+    "end": 2396,
+    "_chunk_index": 13
+  },
+  {
+    "entity_group": "Disease",
+    "score": 0.9403623938560486,
+    "word": "cancer",
+    "start": 2397,
+    "end": 2403,
+    "_chunk_index": 13
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.9785758852958679,
+    "word": "lung",
+    "start": 160,
+    "end": 164,
+    "_chunk_index": 14
+  },
+  {
+    "entity_group": "Disease",
+    "score": 0.9847286343574524,
+    "word": "cancer",
+    "start": 165,
+    "end": 171,
+    "_chunk_index": 14
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.9849473834037781,
+    "word": "lung",
+    "start": 749,
+    "end": 753,
+    "_chunk_index": 14
+  },
+  {
+    "entity_group": "Disease",
+    "score": 0.9784694910049438,
+    "word": "cancer",
+    "start": 754,
+    "end": 760,
+    "_chunk_index": 14
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.9856330752372742,
+    "word": "lung",
+    "start": 907,
+    "end": 911,
+    "_chunk_index": 14
+  },
+  {
+    "entity_group": "Disease",
+    "score": 0.8479406237602234,
+    "word": "cancer",
+    "start": 912,
+    "end": 918,
+    "_chunk_index": 14
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.8217145800590515,
+    "word": "##PD Chronic",
+    "start": 1332,
+    "end": 1343,
+    "_chunk_index": 14
+  },
+  {
+    "entity_group": "Disease",
+    "score": 0.998652994632721,
+    "word": "Obstructive Pulmonary Disease",
+    "start": 1344,
+    "end": 1373,
+    "_chunk_index": 14
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.9522742629051208,
+    "word": "##SCLC Non",
+    "start": 1587,
+    "end": 1596,
+    "_chunk_index": 14
+  },
+  {
+    "entity_group": "Disease",
+    "score": 0.9807791709899902,
+    "word": "- Small Cell Lung Cancer",
+    "start": 1596,
+    "end": 1619,
+    "_chunk_index": 14
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "entity_group": "Begin",
+    "score": 0.753809928894043,
+    "word": "chemical",
+    "start": 950,
+    "end": 958,
+    "_chunk_index": 4
+  },
+  {
+    "entity_group": "Disease",
+    "score": 0.8114069700241089,
+    "word": "- disease",
+    "start": 958,
+    "end": 967,
+    "_chunk_index": 4
+  }
+]

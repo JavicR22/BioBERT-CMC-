@@ -1,0 +1,234 @@
+[
+  {
+    "entity_group": "Begin",
+    "score": 0.9844814538955688,
+    "word": "breast",
+    "start": 582,
+    "end": 588,
+    "_chunk_index": 1
+  },
+  {
+    "entity_group": "Disease",
+    "score": 0.9509223103523254,
+    "word": "cancer",
+    "start": 589,
+    "end": 595,
+    "_chunk_index": 1
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.9885666966438293,
+    "word": "breast",
+    "start": 868,
+    "end": 874,
+    "_chunk_index": 1
+  },
+  {
+    "entity_group": "Disease",
+    "score": 0.8680447340011597,
+    "word": "cancer",
+    "start": 875,
+    "end": 881,
+    "_chunk_index": 1
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.9801222681999207,
+    "word": "Breast",
+    "start": 1636,
+    "end": 1642,
+    "_chunk_index": 1
+  },
+  {
+    "entity_group": "Disease",
+    "score": 0.9862338304519653,
+    "word": "cancer",
+    "start": 1643,
+    "end": 1649,
+    "_chunk_index": 1
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.983989417552948,
+    "word": "breast",
+    "start": 1792,
+    "end": 1798,
+    "_chunk_index": 1
+  },
+  {
+    "entity_group": "Disease",
+    "score": 0.9124147295951843,
+    "word": "cancer",
+    "start": 1799,
+    "end": 1805,
+    "_chunk_index": 1
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.923790693283081,
+    "word": "breast",
+    "start": 2199,
+    "end": 2205,
+    "_chunk_index": 1
+  },
+  {
+    "entity_group": "Disease",
+    "score": 0.9894139766693115,
+    "word": "cancer",
+    "start": 2206,
+    "end": 2212,
+    "_chunk_index": 1
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.9800627827644348,
+    "word": "breast",
+    "start": 1031,
+    "end": 1037,
+    "_chunk_index": 2
+  },
+  {
+    "entity_group": "Disease",
+    "score": 0.9715871810913086,
+    "word": "cancer",
+    "start": 1038,
+    "end": 1044,
+    "_chunk_index": 2
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.9837952852249146,
+    "word": "breast",
+    "start": 1230,
+    "end": 1236,
+    "_chunk_index": 2
+  },
+  {
+    "entity_group": "Disease",
+    "score": 0.9766765236854553,
+    "word": "cancer",
+    "start": 1237,
+    "end": 1243,
+    "_chunk_index": 2
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.9805280566215515,
+    "word": "breast",
+    "start": 1725,
+    "end": 1731,
+    "_chunk_index": 2
+  },
+  {
+    "entity_group": "Disease",
+    "score": 0.9465972781181335,
+    "word": "cancer",
+    "start": 1732,
+    "end": 1738,
+    "_chunk_index": 2
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.8117513656616211,
+    "word": "tumor",
+    "start": 2192,
+    "end": 2197,
+    "_chunk_index": 2
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.9758017063140869,
+    "word": "tumor",
+    "start": 816,
+    "end": 821,
+    "_chunk_index": 3
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.9860842823982239,
+    "word": "cancer",
+    "start": 882,
+    "end": 888,
+    "_chunk_index": 3
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.9590460658073425,
+    "word": "tumor",
+    "start": 2171,
+    "end": 2176,
+    "_chunk_index": 3
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.9509633183479309,
+    "word": "multifocal",
+    "start": 2214,
+    "end": 2224,
+    "_chunk_index": 3
+  },
+  {
+    "entity_group": "Disease",
+    "score": 0.9934420585632324,
+    "word": "breast cancers",
+    "start": 2225,
+    "end": 2239,
+    "_chunk_index": 3
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.9839937686920166,
+    "word": "breast",
+    "start": 1953,
+    "end": 1959,
+    "_chunk_index": 5
+  },
+  {
+    "entity_group": "Disease",
+    "score": 0.9757012128829956,
+    "word": "cancer",
+    "start": 1960,
+    "end": 1966,
+    "_chunk_index": 5
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.6865195631980896,
+    "word": "lump",
+    "start": 508,
+    "end": 512,
+    "_chunk_index": 6
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.9712672829627991,
+    "word": "invasive",
+    "start": 891,
+    "end": 899,
+    "_chunk_index": 6
+  },
+  {
+    "entity_group": "Disease",
+    "score": 0.9960952401161194,
+    "word": "cancer",
+    "start": 900,
+    "end": 906,
+    "_chunk_index": 6
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.9851120114326477,
+    "word": "breast",
+    "start": 1097,
+    "end": 1103,
+    "_chunk_index": 6
+  },
+  {
+    "entity_group": "Disease",
+    "score": 0.9543384313583374,
+    "word": "cancer",
+    "start": 1104,
+    "end": 1110,
+    "_chunk_index": 6
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "entity_group": "Begin",
+    "score": 0.7785129547119141,
+    "word": "##EM",
+    "start": 967,
+    "end": 969,
+    "_chunk_index": 8
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.8781006336212158,
+    "word": "TEM",
+    "start": 994,
+    "end": 997,
+    "_chunk_index": 8
+  },
+  {
+    "entity_group": "Begin",
+    "score": 0.8618615865707397,
+    "word": "TEM",
+    "start": 1053,
+    "end": 1056,
+    "_chunk_index": 8
+  }
+]
