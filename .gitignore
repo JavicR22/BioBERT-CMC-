@@ -1,0 +1,59 @@
+# 🐍 Entorno virtual de Python
+bioBERTTesis/
+
+# 📁 Carpeta de Doccano (no subir datos o configuraciones locales)
+Doccano/
+
+# Archivos temporales de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Configuración de entorno
+*.env
+.env/
+venv/
+.venv/
+env/
+ENV/
+
+# Archivos de compilación y logs
+*.log
+*.pot
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de Jupyter
+.ipynb_checkpoints/
+*.ipynb_out/
+
+# Archivos de VSCode / PyCharm / otros IDE
+.vscode/
+.idea/
+
+# Archivos de distribución / build
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Archivos de test o cobertura
+htmlcov/
+.tox/
+.nox/
+.coverage
+coverage.xml
+*.cover
+*.py,cover
+.cache
+.pytest_cache/
+
+# Archivos temporales del sistema operativo
+*.swp
+*.swo
