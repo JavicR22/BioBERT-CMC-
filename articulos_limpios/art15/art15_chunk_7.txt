@@ -1,0 +1,1 @@
+methods for this specific task. Yet, results suggest that simple to process, sustainable, and explainable rule - based systems could be as effective as complex to process, and environmentally impactful, black box deep learning models.
